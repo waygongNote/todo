@@ -1,0 +1,31 @@
+# git {{{
+	# Git 筆記 - Git初始設定＆Github入門
+	# different accounts' synchronization
+# }}}
+# 凍仁的筆記: 完全用 GNU/Linux 工作
+# linux software {{{
+	# (Q) How to manage and install automatically?
+	# tmux
+		# settings:	http://blog.longwin.com.tw/2011/04/tmux-learn-screen-config-2011/
+			# github:	https://github.com/tsung/config/blob/master/shell/tmux.conf
+	# ctags
+	# cgdb	http://tech.mozilla.com.tw/posts/3826/cgdb-%E6%9B%B4%E5%A5%BD%E7%94%A8%E7%9A%84-gdb
+	# (maybe not) python
+# }}}
+# debug {{{
+	# [Study-Area] 進階gdb	http://www.study-area.org/cyril/opentools/opentools/x1265.html
+	# ddd
+	# (X) vimgdb
+	# (X) cgdb
+# }}}
+# Plugin adjust {{{
+	# tmux
+		# 滑鼠問題 (tmux內，開vim，split後，無法用滑鼠調整大小)
+			# http://blog.roodo.com/dabinn/archives/19994974.html
+# }}}
+# ignore {{{
+	# vimgdb
+		# 暫不考慮(因環境為多人共用)
+		# http://chenkaie.blogspot.tw/2009/11/vimgdb-vim-gdb-build-vim-from-source.html
+		# go语言开发环境vim配置 | 田加国 | GUOGUO
+# }}}
