@@ -15,8 +15,6 @@
 # debug {{{
 	# [Study-Area] 進階gdb	http://www.study-area.org/cyril/opentools/opentools/x1265.html
 	# ddd
-	# (X) vimgdb
-	# (X) cgdb
 # }}}
 # Plugin adjust {{{
 	# tmux
@@ -24,8 +22,8 @@
 			# http://blog.roodo.com/dabinn/archives/19994974.html
 # }}}
 # ignore {{{
+	# vimgdb, cgdb	# 暫不考慮(因環境為多人共用)
 	# vimgdb
-		# 暫不考慮(因環境為多人共用)
 		# http://chenkaie.blogspot.tw/2009/11/vimgdb-vim-gdb-build-vim-from-source.html
 		# go语言开发环境vim配置 | 田加国 | GUOGUO
 # }}}
