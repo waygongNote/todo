@@ -1,9 +1,8 @@
 todo
 ====
-# gVim {{{
+# gVim
 	# [VIM+Graphviz ,打造快速输入，所思，所写，即所见，即所得的流程图编辑环境](http://blog.csdn.net/fangkailove/article/details/8969398)
-		# https://github.com/wannesm/wmgraphviz.vim
-# }}}
+	# https://github.com/wannesm/wmgraphviz.vim
 # Vimium {{{
 	# chrome	https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
 	# github	https://github.com/philc/vimium/
