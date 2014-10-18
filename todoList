@@ -17,7 +17,7 @@
 # }}}
 # 凍仁的筆記: 完全用 GNU/Linux 工作
 # software {{{
-	# (Q) How to manage and install automatically?
+	# use .sh to install multiple programs
 	# tmux
 		# settings:	http://blog.longwin.com.tw/2011/04/tmux-learn-screen-config-2011/
 			# github:	https://github.com/tsung/config/blob/master/shell/tmux.conf
