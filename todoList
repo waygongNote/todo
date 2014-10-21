@@ -1,3 +1,8 @@
+# gVim {{{
+	# VIM+Graphviz ,打造快速输入，所思，所写，即所见，即所得的流程图编辑环境
+		# http://blog.csdn.net/fangkailove/article/details/8969398
+		# https://github.com/wannesm/wmgraphviz.vim
+# }}}
 # Vimium {{{
 	# chrome	https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
 	# github	https://github.com/philc/vimium/
@@ -19,7 +24,7 @@
 # }}}
 # 凍仁的筆記: 完全用 GNU/Linux 工作
 # software {{{
-	# (Q) How to manage and install automatically?
+	# use .sh to install multiple programs
 	# tmux
 		# settings:	http://blog.longwin.com.tw/2011/04/tmux-learn-screen-config-2011/
 			# github:	https://github.com/tsung/config/blob/master/shell/tmux.conf
@@ -30,7 +35,8 @@
 	# [Study-Area] 進階gdb	http://www.study-area.org/cyril/opentools/opentools/x1265.html
 	# ddd
 # }}}
-# Plugin adjust {{{
+# Plugin (adjust) {{{
+	# 快捷鍵衝突調整	https://www.ptt.cc/bbs/Editor/M.1380211625.A.15A.html
 # }}}
 # ignore {{{
 # }}}
