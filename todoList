@@ -14,6 +14,8 @@
 	# Git 筆記 - Git初始設定＆Github入門
 	# 超棒示意圖	http://littleb.tc/slides/2012/everyone/git.html#slide-23
 	# different accounts' synchronization
+	# git config user.name "waygongNote"
+	# git config user.email "waygong@msn.com"
 # }}}
 # 凍仁的筆記: 完全用 GNU/Linux 工作
 # software {{{
