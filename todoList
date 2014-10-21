@@ -33,7 +33,8 @@
 	# [Study-Area] 進階gdb	http://www.study-area.org/cyril/opentools/opentools/x1265.html
 	# ddd
 # }}}
-# Plugin adjust {{{
+# Plugin (adjust) {{{
+	# 快捷鍵衝突調整	https://www.ptt.cc/bbs/Editor/M.1380211625.A.15A.html
 # }}}
 # ignore {{{
 # }}}
