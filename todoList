@@ -31,6 +31,7 @@
 			# github:	https://github.com/tsung/config/blob/master/shell/tmux.conf
 	# ctags
 	# cgdb	http://tech.mozilla.com.tw/posts/3826/cgdb-%E6%9B%B4%E5%A5%BD%E7%94%A8%E7%9A%84-gdb
+	# CallGraphviz	http://enews.url.com.tw/ossf/63227
 # }}}
 # debug {{{
 	# [Study-Area] 進階gdb	http://www.study-area.org/cyril/opentools/opentools/x1265.html
@@ -46,7 +47,7 @@
 # ignore {{{
 	# 程式語言排行榜	http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
 # }}}
-# 備分 {{{
+# 備份 {{{
 	# rsync
 		# http://fcamel-life.blogspot.tw/2011/01/rsync.html#uds-search-results
 		# http://blog.davidou.org/archives/774
