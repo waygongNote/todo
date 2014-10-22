@@ -25,6 +25,7 @@
 # 凍仁的筆記: 完全用 GNU/Linux 工作
 # software {{{
 	# use .sh to install multiple programs
+		# 一秒設好慣用的環境	http://fcamel-life.blogspot.tw/2012/01/blog-post_05.html
 	# tmux
 		# settings:	http://blog.longwin.com.tw/2011/04/tmux-learn-screen-config-2011/
 			# github:	https://github.com/tsung/config/blob/master/shell/tmux.conf
@@ -44,4 +45,7 @@
 # }}}
 # ignore {{{
 	# 程式語言排行榜	http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html
+# }}}
+# 備分 {{{
+	# rsync	http://fcamel-life.blogspot.tw/2011/01/rsync.html#uds-search-results
 # }}}
