@@ -3,7 +3,7 @@
 		# http://blog.csdn.net/fangkailove/article/details/8969398
 		# https://github.com/wannesm/wmgraphviz.vim
 # }}}
-# Vimium {{{
+# Vim for chrome (Vimium) {{{
 	# chrome	https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb
 	# github	https://github.com/philc/vimium/
 		# https://github.com/philc/vimium/blob/master/background_scripts/commands.coffee
@@ -14,6 +14,12 @@
 	# 小修改，让Vimium兼容Vimperator的快捷键绑定堆填区 | 堆填区
 	# 使用chrome的vimium插件 - 勤&快 - BlogJava
 	# Vimium 介紹與支持 Plurk (噗浪) - iT邦幫忙::IT知識分享社群
+# }}}
+# Vim for Firefox {{{
+	# Firefox + Vimperator
+		# 凍仁的筆記: GVim 更改預設字型及佈景主題	http://note.drx.tw/2010/10/gvim.html
+	# Firefox + Pentadactyl
+		# 凍仁的筆記: [完全用 GNU/Linux 工作] 13. Pentadactyl	http://note.drx.tw/2013/10/working-on-gnu-linux-13-pentadactyl.html
 # }}}
 # git {{{
 	# Git 筆記 - Git初始設定＆Github入門
